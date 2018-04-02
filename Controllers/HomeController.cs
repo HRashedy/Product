@@ -19,14 +19,14 @@ namespace cms2018.Controllers
         {
             ViewData["Message"] = "Your application description page.";
 
-            return View();
+            return ok();
         }
 
         public IActionResult Contact()
         {
             ViewData["Message"] = "Your contact page.";
 
-            return View();
+            return ok();
         }
 
         public IActionResult Error()
