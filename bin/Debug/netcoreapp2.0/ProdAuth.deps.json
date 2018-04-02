@@ -21,17 +21,17 @@
   },
   "targets": {
     ".NETCoreApp,Version=v2.0": {
-      "cms2018/1.0.0": {
+      "ProdAuth/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.All": "2.0.6",
           "Microsoft.NETCore.App": "2.0.0",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "2.0.3"
         },
         "runtime": {
-          "cms2018.dll": {}
+          "ProdAuth.dll": {}
         },
         "compile": {
-          "cms2018.dll": {}
+          "ProdAuth.dll": {}
         }
       },
       "Libuv/1.10.0": {
@@ -4232,7 +4232,7 @@
     }
   },
   "libraries": {
-    "cms2018/1.0.0": {
+    "ProdAuth/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

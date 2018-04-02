@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace cms2018.Models
+namespace ProdAuth.Model
 {
     public class Category
     {

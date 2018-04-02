@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace cms2018.Models
+namespace ProdAuth.Model
 {
     public class Product
     {
@@ -26,17 +26,8 @@ namespace cms2018.Models
         }
 
         [Required]
-        public int CategoryId
-        {
-            get;
-            set;
-        }
-
-        public Category Category
-        {
-            get;
-            set;
-        }
+        public int CategoryId { get; set; }
+        public Category Category {get;set;}
 
         private string _Description;
         [StringLength(5000)]
@@ -69,11 +60,5 @@ namespace cms2018.Models
             get { return _Avilable; }
             set { _Avilable = value; }
         }
-
-
-
-
-
-
     }
 }

@@ -13130,11 +13130,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HRashedy\\source\\repos\\cms2018\\cms2018\\cms2018.csproj",
-      "projectName": "cms2018",
-      "projectPath": "C:\\Users\\HRashedy\\source\\repos\\cms2018\\cms2018\\cms2018.csproj",
+      "projectUniqueName": "C:\\Users\\HRashedy\\source\\repos\\ProdAuth\\ProdAuth\\ProdAuth.csproj",
+      "projectName": "ProdAuth",
+      "projectPath": "C:\\Users\\HRashedy\\source\\repos\\ProdAuth\\ProdAuth\\ProdAuth.csproj",
       "packagesPath": "C:\\Users\\HRashedy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HRashedy\\source\\repos\\cms2018\\cms2018\\obj\\",
+      "outputPath": "C:\\Users\\HRashedy\\source\\repos\\ProdAuth\\ProdAuth\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,11 @@
+c:\users\hrashedy\source\repos\ProdAuth\ProdAuth\bin\Debug\netcoreapp2.0\ProdAuth.deps.json
+c:\users\hrashedy\source\repos\ProdAuth\ProdAuth\bin\Debug\netcoreapp2.0\ProdAuth.runtimeconfig.json
+c:\users\hrashedy\source\repos\ProdAuth\ProdAuth\bin\Debug\netcoreapp2.0\ProdAuth.runtimeconfig.dev.json
+c:\users\hrashedy\source\repos\ProdAuth\ProdAuth\bin\Debug\netcoreapp2.0\ProdAuth.dll
+c:\users\hrashedy\source\repos\ProdAuth\ProdAuth\obj\Debug\netcoreapp2.0\ProdAuth.csprojResolveAssemblyReference.cache
+c:\users\hrashedy\source\repos\ProdAuth\ProdAuth\obj\Debug\netcoreapp2.0\ProdAuth.csproj.CoreCompileInputs.cache
+c:\users\hrashedy\source\repos\ProdAuth\ProdAuth\obj\Debug\netcoreapp2.0\ProdAuth.AssemblyInfoInputs.cache
+c:\users\hrashedy\source\repos\ProdAuth\ProdAuth\obj\Debug\netcoreapp2.0\ProdAuth.AssemblyInfo.cs
+C:\Users\HRashedy\source\repos\ProdAuth\ProdAuth\bin\Debug\netcoreapp2.0\ProdAuth.pdb
+C:\Users\HRashedy\source\repos\ProdAuth\ProdAuth\obj\Debug\netcoreapp2.0\ProdAuth.dll
+C:\Users\HRashedy\source\repos\ProdAuth\ProdAuth\obj\Debug\netcoreapp2.0\ProdAuth.pdb
